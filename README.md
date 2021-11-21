@@ -4,9 +4,10 @@ My name is Giovane, I'm from Brazil, I'm studying Information Systems and Electr
  🖥️ <br />
 The area I want to work in BackEnd.
 
-- 📍 From PB living in campina Grande
-- 🖥️ Universitys: UNIFACISA(Information Systems), UFCG(Electrical Engineering).
-- 📚 I'm currently delving into Java (SpringBoot)
+
+- 📍 From PB living in campina Grande;
+- 🖥️ Universitys: UNIFACISA(Information Systems) and UFCG(Electrical Engineering);
+- 📚 I'm currently delving into Java (SpringBoot).
 
 ---
 #### My programming languages
