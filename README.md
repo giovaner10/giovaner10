@@ -1,16 +1,28 @@
 # Hey 👋
 
-My name is Giovane, I'm from Brazil, I'm A  Information Systems and electrical engineering
+My name is Giovane, I'm from Brazil, I'm A  Information Systems and Electrical Engineering
  🖥️ <br />
-The area I want to work in BackEnd
+The area I want to work in BackEnd.
 
 - 📍 From PB living in campina Grande
-- 🖥️ University UNIFACISA
-- 📚 I’m currently learning JavaScript, Node and React.Js
+- 🖥️ University UNIFACISA(Information Systems, 
+- 📚 I’m currently learning JavaS
 
 [![Linkedin Badge](https://img.shields.io/badge/-Maheus%20Marques-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-marquesdev/)](https://www.linkedin.com/in/matheus-marquesdev/) [![Gmail Badge](https://img.shields.io/badge/-matheusmarquesaraujo53@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:matheusmarquesaraujo53@gmail.com)
 
 **“A melhor maneira de prever o futuro é inventá-lo.”**
 ---
 
-aa
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+
+
+### Other Languages I know
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
