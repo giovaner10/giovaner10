@@ -17,7 +17,7 @@ The area I want to work in BackEnd.
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 ---
 ##### My contacts
-[![Linkedin Badge](https://img.shields.io/badge/-Giovane%20Tiburcio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovane-avelino-0003b9206/)](https://www.linkedin.com/in/giovane-avelino-0003b9206/) [![Gmail Badge](https://img.shields.io/badge/-giovanerr10@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:giovanerr10@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Giovane%20Tiburcio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovaner10/)](https://www.linkedin.com/in/giovaner10/) [![Gmail Badge](https://img.shields.io/badge/-giovanerr10@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:giovanerr10@gmail.com)
 
 
 
