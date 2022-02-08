@@ -11,8 +11,8 @@ The area I want to work in BackEnd.
 
 <div>
   <a href="https://github.com/amandakelly3">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovaner103&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" width = "450m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaner103&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovaner10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" width = "450m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaner10&layout=compact&langs_count=7&theme=radical"/>
    <img align="right" width="110" height="110" border="0" alt="Amanda-yoda" src="https://i.picasion.com/pic91/1a1b853a036cede81c5c7f69cffe2b44.gif">
 </div>
 
