@@ -9,6 +9,14 @@ The area I want to work in BackEnd.
 - 🖥️ Universitys: UNIFACISA(Information Systems) and UFCG(Electrical Engineering);
 - 📚 I'm currently delving into Java (SpringBoot).
 
+<div>
+  <a href="https://github.com/amandakelly3">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovaner103&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" width = "450m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaner103&layout=compact&langs_count=7&theme=radical"/>
+   <img align="right" width="110" height="110" border="0" alt="Amanda-yoda" src="https://i.picasion.com/pic91/1a1b853a036cede81c5c7f69cffe2b44.gif">
+</div>
+
+
 ---
 #### My programming languages
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
