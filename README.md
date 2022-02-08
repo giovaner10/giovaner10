@@ -8,7 +8,7 @@ The area I want to work in BackEnd.
 - 📍 From PB living in campina Grande;
 - 🖥️ Universitys: UNIFACISA(Information Systems) and UFCG(Electrical Engineering);
 - 📚 I'm currently delving into Java (SpringBoot).
----
+--
 <div>
   <a href="https://github.com/amandakelly3">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovaner10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
