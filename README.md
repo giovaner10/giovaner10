@@ -10,7 +10,7 @@ The area I want to work in BackEnd.
 - 📚 I'm currently delving into Java (SpringBoot).
 ---
 <div>
-  <a href="https://github.com/amandakelly3">
+  <a href="https://github.com/giovaner10">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovaner10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" width = "450m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovaner10&layout=compact&langs_count=7&theme=radical"/>
 </div>
