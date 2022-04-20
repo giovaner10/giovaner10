@@ -32,3 +32,6 @@ The area I want to work in BackEnd.
 ##### My contacts
 [![Linkedin Badge](https://img.shields.io/badge/-Giovane%20Tiburcio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovaner10/)](https://www.linkedin.com/in/giovaner10/) [![Gmail Badge](https://img.shields.io/badge/-giovanerr10@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovanerr10@gmail.com)](mailto:giovanerr10@gmail.com)
 
+ 
+ ![Snake animation](https://github.com/giovaner10/giovaner10/blob/output/github-contribution-grid-snake.svg)
+
